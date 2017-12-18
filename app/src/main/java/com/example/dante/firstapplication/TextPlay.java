@@ -36,7 +36,7 @@ public class TextPlay extends Activity{
                 }
 
             }
-        });
+        });//jjjj
 
         chkCmd.setOnClickListener(new View.OnClickListener() {
             @Override
